@@ -1,4 +1,4 @@
-<h2 align = "center" ><em> K-mean-clustering.(just for learning new concept or just a learning project).</em> </h2>
+<h2 align = "center" ><em> K-mean-clustering.(just for learning new concept or just a learning project)</em> </h2>
 
 ```
 Content used :-
